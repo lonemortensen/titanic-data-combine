@@ -21,7 +21,7 @@ During this project, I practiced:
 - NumPy
 
 ## Launch
-[See the project here:](https://replit.com/@lonemortensen/skillcrush-py-cl03-ls03-titanic-combine-data-numpy-final)
+[See the project here.](https://replit.com/@lonemortensen/skillcrush-py-cl03-ls03-titanic-combine-data-numpy-final)
 
 ## Acknowledgements
 
